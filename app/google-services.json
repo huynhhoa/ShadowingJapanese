@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "584420214118",
+    "firebase_url": "https://shadowing-japanese-default-rtdb.firebaseio.com",
+    "project_id": "shadowing-japanese",
+    "storage_bucket": "shadowing-japanese.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584420214118:android:b5bf906378d1d0795db4a7",
+        "android_client_info": {
+          "package_name": "com.design.shadowingjapanese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584420214118-gbnqdiqitgapvbc4h68cm7nlm18no4o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXTILXuJd930m-hQ2P-47SVyHZ0jtr7TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584420214118-gbnqdiqitgapvbc4h68cm7nlm18no4o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

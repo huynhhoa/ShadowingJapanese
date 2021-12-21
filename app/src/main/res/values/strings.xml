@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hanasou</string>
+    <string name="tittle">日本語を話そう</string>
+    <string name="adCode">ca-app-pub-2847353116904733/1005201197</string>
+    <string name="adCodeManiF">ca-app-pub-2847353116904733~9355955198</string>
+</resources>
+<!-- Live : ca-app-pub-2847353116904733/1005201197  -->
+<!-- Test : ca-app-pub-3940256099942544/6300978111  -->
+
+
+<!-- Live manifests : ca-app-pub-2847353116904733~9355955198 -->
+<!-- Test manifests : ca-app-pub-3940256099942544~3347511713 -->

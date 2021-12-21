@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Speed: 0.5"
+    android:id="@+id/menu_speed05"/>
+    <item android:id="@+id/menu_speed075"
+        android:title="Speed: 0.75"/>
+    <item android:id="@+id/menu_speed1"
+        android:title="Standard"/>
+    <item android:id="@+id/menu_speed125"
+        android:title="Speed: 1.25"/>
+
+</menu>
